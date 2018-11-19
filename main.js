@@ -17,7 +17,6 @@ app.on('ready', function() {
 
   // and load the index.html of the app.
   mainWindow.loadURL('file://' + __dirname + '/Resources/View/index.html');
-
   // Emitted when the window is closed.
   mainWindow.on('closed', function() {
     mainWindow = null;
