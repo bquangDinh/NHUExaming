@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bquangDinh/NHUExaming/issues"
   },
-  "homepage": "https://github.com/bquangDinh/NHUExaming#readme"
+  "homepage": "https://github.com/bquangDinh/NHUExaming#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
